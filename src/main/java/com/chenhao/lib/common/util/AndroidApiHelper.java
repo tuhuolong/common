@@ -13,7 +13,7 @@ import java.lang.reflect.Field;
 /**
  * Created by chenhao on 16/12/28.
  */
-public class ApiHelper {
+public class AndroidApiHelper {
     public static final boolean HAS_ANDROID_ANIMATION = Build.VERSION.SDK_INT >= VERSION_CODES.HONEYCOMB;
     public static final boolean HAS_NOTIFICATION_BUILDER = Build.VERSION.SDK_INT > VERSION_CODES.GINGERBREAD_MR1;
     public static final boolean HAS_ANDROID_CLEAR_TASK = Build.VERSION.SDK_INT >= VERSION_CODES.HONEYCOMB;
