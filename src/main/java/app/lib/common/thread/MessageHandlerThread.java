@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.thread;
+package app.lib.common.thread;
 
 import android.os.Handler;
 import android.os.HandlerThread;

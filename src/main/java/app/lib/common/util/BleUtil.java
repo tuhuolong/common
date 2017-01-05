@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.util;
+package app.lib.common.util;
 
 import android.bluetooth.BluetoothGattCharacteristic;
 

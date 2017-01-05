@@ -1,7 +1,5 @@
 
-package com.chenhao.lib.common.crypto.rc4coder;
-
-import com.chenhao.lib.common.crypto.Base64Coder;
+package app.lib.common.crypto.rc4coder;
 
 import java.security.InvalidKeyException;
 import java.security.MessageDigest;
@@ -14,6 +12,8 @@ import javax.crypto.Mac;
 import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.SecretKeySpec;
+
+import app.lib.common.crypto.Base64Coder;
 
 public abstract class Coder {
     public static final String KEY_SHA = "SHA";

@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.crypto;
+package app.lib.common.crypto;
 
 import java.io.File;
 import java.io.FileInputStream;

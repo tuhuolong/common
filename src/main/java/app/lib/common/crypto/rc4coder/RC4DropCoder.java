@@ -1,12 +1,12 @@
 
-package com.chenhao.lib.common.crypto.rc4coder;
-
-import com.chenhao.lib.common.crypto.Base64Coder;
+package app.lib.common.crypto.rc4coder;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 
 import javax.crypto.IllegalBlockSizeException;
+
+import app.lib.common.crypto.Base64Coder;
 
 /**
  * RC4drop 1024 key should be 256bit

@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.crypto;
+package app.lib.common.crypto;
 
 import android.net.Uri;
 import android.text.TextUtils;

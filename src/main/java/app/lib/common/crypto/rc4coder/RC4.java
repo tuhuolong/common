@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.crypto.rc4coder;
+package app.lib.common.crypto.rc4coder;
 
 /* code from apache
  * 

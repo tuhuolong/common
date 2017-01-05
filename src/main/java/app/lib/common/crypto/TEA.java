@@ -13,7 +13,7 @@
  * General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.chenhao.lib.common.crypto;
+package app.lib.common.crypto;
 
 public class TEA {
     private final static int SUGAR = 0x9E3779B9;

@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.crypto;
+package app.lib.common.crypto;
 
 /**
  * <p>

@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.crypto;
+package app.lib.common.crypto;
 
 /**
  * Created by chenhao on 15/12/31.

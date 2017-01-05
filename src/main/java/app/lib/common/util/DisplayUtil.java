@@ -1,5 +1,5 @@
 
-package com.chenhao.lib.common.util;
+package app.lib.common.util;
 
 import android.app.Activity;
 import android.content.Context;
