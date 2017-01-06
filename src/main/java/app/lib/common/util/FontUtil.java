@@ -18,7 +18,7 @@ public class FontUtil {
     /*
      * This function should be called from main thread
      */
-    public static Typeface getFont(Context context, String fontName) {
+    public static Typeface getFontFromAsset(Context context, String fontName) {
         if (Looper.getMainLooper().getThread() != Thread.currentThread()) {
             throw new IllegalStateException("Method call should happen from the main thread.");
         }
